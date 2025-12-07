@@ -1,0 +1,61 @@
+[
+  { "label": "PERSON", "pattern": [{ "LOWER": "hercule" }, { "LOWER": "poirot" }], "id": "hercule poirot" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "poirot" }], "id": "hercule poirot" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "hercule" }], "id": "hercule poirot" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "arthur" }, { "LOWER": "hastings" }], "id": "arthur hastings" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "hastings" }], "id": "arthur hastings" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "arthur" }], "id": "arthur hastings" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "inspector" }, { "LOWER": "japp" }], "id": "inspector japp" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "japp" }], "id": "inspector japp" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "li" }, { "LOWER": "chang" }, { "LOWER": "yen" }], "id": "li chang yen" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "li" }], "id": "li chang yen" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "yen" }], "id": "li chang yen" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "abe" }, { "LOWER": "ryland" }], "id": "abe ryland" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "ryland" }], "id": "abe ryland" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "abe" }], "id": "abe ryland" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "madame" }, { "LOWER": "olivier" }], "id": "madame olivier" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "olivier" }], "id": "madame olivier" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "claude" }, { "LOWER": "darrell" }], "id": "claude darrell" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "darrell" }], "id": "claude darrell" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "joseph" }, { "LOWER": "aarons" }], "id": "joseph aarons" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "aarons" }], "id": "joseph aarons" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "john" }, { "LOWER": "halliday" }], "id": "john halliday" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "halliday" }], "id": "john halliday" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "john" }, { "LOWER": "ingles" }], "id": "john ingles" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "ingles" }], "id": "john ingles" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "mr" }, { "LOWER": "mayerling" }], "id": "mister mayerling" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "mayerling" }], "id": "mister mayerling" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "inspector" }, { "LOWER": "meadows" }], "id": "inspector meadows" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "meadows" }], "id": "inspector meadows" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "flossie" }, { "LOWER": "monro" }], "id": "flossie monro" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "monro" }], "id": "flossie monro" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "flossie" }], "id": "flossie monro" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "gerald" }, { "LOWER": "paynter" }], "id": "gerald paynter" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "paynter" }], "id": "gerald paynter" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "gerald" }], "id": "gerald paynter" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "dr" }, { "LOWER": "savaronoff" }], "id": "dr savaronoff" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "savaronoff" }], "id": "dr savaronoff" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "mr" }, { "LOWER": "templeton" }], "id": "mr templeton" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "templeton" }], "id": "mr templeton" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "jonathan" }, { "LOWER": "whalley" }], "id": "jonathan whalley" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "whalley" }], "id": "jonathan whalley" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "gilmour" }, { "LOWER": "wilson" }], "id": "gilmour wilson" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "wilson" }], "id": "gilmour wilson" }
+]

@@ -1,0 +1,84 @@
+[
+  { "label": "PERSON", "pattern": [{ "LOWER": "sir" }, { "LOWER": "oswald" }, { "LOWER": "coote" }], "id": "sir oswald coote" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "oswald" }], "id": "sir oswald coote" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "coote" }], "id": "sir oswald coote" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "lady" }, { "LOWER": "coote" }], "id": "lady coote" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "maria" }], "id": "lady coote" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "coote" }], "id": "lady coote" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "tredwell" }], "id": "tredwell" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "macdonald" }], "id": "macdonald" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "rupert" }, { "LOWER": "bateman" }], "id": "rupert bateman" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "bateman" }], "id": "rupert bateman" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "rupert" }], "id": "rupert bateman" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "jimmy" }, { "LOWER": "thesiger" }], "id": "jimmy thesiger" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "thesiger" }], "id": "jimmy thesiger" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "jimmy" }], "id": "jimmy thesiger" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "helen" }], "id": "helen daventry" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "nancy" }], "id": "nancy daventry" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "vera" }], "id": "vera daventry" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "socks" }], "id": "vera daventry" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "daventry" }], "id": "daventry" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "bill" }, { "LOWER": "eversleigh" }], "id": "bill eversleigh" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "eversleigh" }], "id": "bill eversleigh" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "bill" }], "id": "bill eversleigh" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "ronny" }, { "LOWER": "devereux" }], "id": "ronny devereux" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "devereux" }], "id": "ronny devereux" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "ronny" }], "id": "ronny devereux" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "mr" }, { "LOWER": "ronald" }, { "LOWER": "devereux" }], "id": "ronny devereux" },
+    { "label": "PERSON", "pattern": [{ "LOWER": "ronald" }, { "LOWER": "devereux" }], "id": "ronny devereux" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "gerald" }, { "LOWER": "wade" }], "id": "gerald wade" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "wade" }], "id": "gerald wade" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "gerald" }], "id": "gerald wade" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "gerry" }, { "LOWER": "wade" }], "id": "gerald wade" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "gerry" }], "id": "gerald wade" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "loraine" }, { "LOWER": "wade" }], "id": "loraine wade" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "wade" }], "id": "loraine wade" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "loraine" }], "id": "loraine wade" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "clement" }, { "LOWER": "brent" }], "id": "clement brent" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "brent" }], "id": "clement brent" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "clement" }], "id": "clement brent" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "bundle" }, { "LOWER": "brent" }], "id": "bundle brent" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "lady" }, { "LOWER": "eileen" }, { "LOWER": "brent" }], "id": "bundle brent" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "eileen" }], "id": "bundle brent" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "brent" }], "id": "bundle brent" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "bundle" }], "id": "bundle brent" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "stevens" }], "id": "stevens" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "george" }, { "LOWER": "lomax" }], "id": "george lomax" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "lomax" }], "id": "george lomax" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "george" }], "id": "george lomax" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "sir" }, { "LOWER": "stanley" }, { "LOWER": "digby" }], "id": "sir stanley digby" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "digby" }], "id": "sir stanley digby" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "stanley" }], "id": "sir stanley digby" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "terence" }, { "LOWER": "o'rourke" }], "id": "terence o'rourke" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "o'rourke" }], "id": "terence o'rourke" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "terence" }], "id": "terence o'rourke" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "countess" }, { "LOWER": "radzky" }], "id": "countess radzky" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "radzky" }], "id": "countess radzky" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "herr" }, { "LOWER": "eberhard" }], "id": "herr eberhard" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "eberhard" }], "id": "herr eberhard" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "mr" }, { "LOWER": "mosgorovsky" }], "id": "mr mosgorovsky" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "mosgorovsky" }], "id": "mr mosgorovsky" },
+
+  { "label": "PERSON", "pattern": [{ "LOWER": "inspector" }, { "LOWER": "battle" }], "id": "superintendent battle" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "battle" }], "id": "superintendent battle" },
+  { "label": "PERSON", "pattern": [{ "LOWER": "superintendent" }], "id": "superintendent battle" }
+]

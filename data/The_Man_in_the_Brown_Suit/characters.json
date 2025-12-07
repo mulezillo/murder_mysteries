@@ -1,0 +1,203 @@
+[
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "anne"}, {"LOWER": "beddingfeld"}],
+    "id": "anne beddingfeld"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "anne"}],
+    "id": "anne beddingfeld"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "beddingfeld"}],
+    "id": "anne beddingfeld"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "anita"}, {"LOWER": "grünberg"}],
+    "id": "anita grünberg"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "anita"}],
+    "id": "anita grünberg"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "grünberg"}],
+    "id": "anita grünberg"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "nadina"}],
+    "id": "nadina"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "john"}, {"LOWER": "harold"}, {"LOWER": "eardsley"}],
+    "id": "john harold eardsley"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "eardsley"}],
+    "id": "john harold eardsley"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "john"}, {"LOWER": "eardsley"}],
+    "id": "john harold eardsley"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "harry"}, {"LOWER": "lucas"}],
+    "id": "harry lucas"
+  },
+    {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "lucas"}],
+    "id": "harry lucas"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "harry"}],
+    "id": "harry lucas"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "harry"}, {"LOWER": "rayburn"}],
+    "id": "harry rayburn"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "rayburn"}],
+    "id": "harry rayburn"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "the"}, {"LOWER": "colonel"}],
+    "id": "the colonel"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "colonel"}],
+    "id": "the colonel"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "colonel"}, {"LOWER": "race"}],
+    "id": "colonel race"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "race"}],
+    "id": "colonel race"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "suzanne"}, {"LOWER": "blair"}],
+    "id": "suzanne blair"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "blair"}],
+    "id": "suzanne blair"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "suzanne"}],
+    "id": "suzanne blair"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "sir"}, {"LOWER": "eustace"}, {"LOWER": "pedler"}],
+    "id": "sir eustace pedler"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "eustace"}],
+    "id": "sir eustace pedler"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "pedler"}],
+    "id": "sir eustace pedler"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "guy"}, {"LOWER": "pagett"}],
+    "id": "guy pagett"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "pagett"}],
+    "id": "guy pagett"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "arthur"}, {"LOWER": "minks"}],
+    "id": "arthur minks"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "minks"}],
+    "id": "arthur minks"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "edward"}, {"LOWER": "chichester"}],
+    "id": "edward chichester"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "chichester"}],
+    "id": "edward chichester"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "count"}, {"LOWER": "sergius"}, {"LOWER": "paulovitch"}],
+    "id": "count sergius paulovitch"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "paulovitch"}],
+    "id": "count sergius paulovitch"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "mr"}, {"LOWER": "flemming"}],
+    "id": "mr flemming"
+  },
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "flemming"}],
+    "id": "mr flemming"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "carton"}],
+    "id": "l b carton"
+  },
+
+  {
+    "label": "PERSON",
+    "pattern": [{"LOWER": "inspector"}, {"LOWER": "meadows"}],
+    "id": "inspector meadows"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {"label": "PERSON", "pattern": [{"LOWER": "tommy"}, {"LOWER": "beresford"}], "id": "tommy beresford"},
+  {"label": "PERSON", "pattern": [{"LOWER": "beresford"}], "id": "tommy beresford"},
+  {"label": "PERSON", "pattern": [{"LOWER": "tommy"}], "id": "tommy beresford"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "tuppence"}, {"LOWER": "cowley"}], "id": "tuppence cowley"},
+  {"label": "PERSON", "pattern": [{"LOWER": "cowley"}], "id": "tuppence cowley"},
+  {"label": "PERSON", "pattern": [{"LOWER": "tuppence"}], "id": "tuppence cowley"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "julius"}, {"LOWER": "hersheimmer"}], "id": "julius hersheimmer"},
+  {"label": "PERSON", "pattern": [{"LOWER": "hersheimmer"}], "id": "julius hersheimmer"},
+  {"label": "PERSON", "pattern": [{"LOWER": "julius"}], "id": "julius hersheimmer"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "jane"}, {"LOWER": "finn"}], "id": "jane finn"},
+  {"label": "PERSON", "pattern": [{"LOWER": "finn"}], "id": "jane finn"},
+  {"label": "PERSON", "pattern": [{"LOWER": "jane"}], "id": "jane finn"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "mr"}, {"LOWER": "carter"}], "id": "mr carter"},
+  {"label": "PERSON", "pattern": [{"LOWER": "carter"}], "id": "mr carter"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "mr"}, {"LOWER": "whittington"}], "id": "mr whittington"},
+  {"label": "PERSON", "pattern": [{"LOWER": "whittington"}], "id": "mr whittington"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "rita"}, {"LOWER": "vandemeyer"}], "id": "rita vandemeyer"},
+  {"label": "PERSON", "pattern": [{"LOWER": "vandemeyer"}], "id": "rita vandemeyer"},
+  {"label": "PERSON", "pattern": [{"LOWER": "rita"}], "id": "rita vandemeyer"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "boris"}, {"LOWER": "ivanovitch"}], "id": "boris ivanovitch"},
+  {"label": "PERSON", "pattern": [{"LOWER": "ivanovitch"}], "id": "boris ivanovitch"},
+  {"label": "PERSON", "pattern": [{"LOWER": "boris"}], "id": "boris ivanovitch"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "kramenin"}], "id": "kramenin"},
+  {"label": "PERSON", "pattern": [{"LOWER": "mr"}, {"LOWER": "kramenin"}], "id": "kramenin"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "dr"}, {"LOWER": "hall"}], "id": "dr hall"},
+  {"label": "PERSON", "pattern": [{"LOWER": "hall"}], "id": "dr hall"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "sir"}, {"LOWER": "james"}, {"LOWER": "peel"}, {"LOWER": "edgerton"}], "id": "sir james peel edgerton"},
+  {"label": "PERSON", "pattern": [{"LOWER": "edgerton"}], "id": "sir james peel edgerton"},
+  {"label": "PERSON", "pattern": [{"LOWER": "sir"}, {"LOWER": "james"}], "id": "sir james peel edgerton"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "mr"}, {"LOWER": "brown"}], "id": "mr brown"},
+  {"label": "PERSON", "pattern": [{"LOWER": "brown"}], "id": "mr brown"},
+
+  {"label": "PERSON", "pattern": [{"LOWER": "albert"}], "id": "albert"}
+]

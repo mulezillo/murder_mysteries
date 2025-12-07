@@ -1,0 +1,47 @@
+[
+  {"label": "PERSON", "id": "hercule poirot", "pattern": [{"LOWER": "hercule"}, {"LOWER": "poirot"}]},
+  {"label": "PERSON", "id": "hercule poirot", "pattern": [{"LOWER": "poirot"}]},
+  {"label": "PERSON", "id": "hercule poirot", "pattern": [{"LOWER": "hercule"}]},
+
+  {"label": "PERSON", "id": "arthur hastings", "pattern": [{"LOWER": "arthur"}, {"LOWER": "hastings"}]},
+  {"label": "PERSON", "id": "arthur hastings", "pattern": [{"LOWER": "hastings"}]},
+  {"label": "PERSON", "id": "arthur hastings", "pattern": [{"LOWER": "arthur"}]},
+
+  {"label": "PERSON", "id": "inspector japp", "pattern": [{"LOWER": "inspector"}, {"LOWER": "japp"}]},
+  {"label": "PERSON", "id": "inspector japp", "pattern": [{"LOWER": "japp"}]},
+  {"label": "PERSON", "id": "inspector japp", "pattern": [{"LOWER": "inspector"}]},
+
+  {"label": "PERSON", "id": "emily inglethorp", "pattern": [{"LOWER": "emily"}, {"LOWER": "inglethorp"}]},
+  {"label": "PERSON", "id": "emily inglethorp", "pattern": [{"LOWER": "inglethorp"}]},
+  {"label": "PERSON", "id": "emily inglethorp", "pattern": [{"LOWER": "emily"}]},
+
+  {"label": "PERSON", "id": "alfred inglethorp", "pattern": [{"LOWER": "alfred"}, {"LOWER": "inglethorp"}]},
+  {"label": "PERSON", "id": "alfred inglethorp", "pattern": [{"LOWER": "inglethorp"}]},
+  {"label": "PERSON", "id": "alfred inglethorp", "pattern": [{"LOWER": "alfred"}]},
+
+  {"label": "PERSON", "id": "john cavendish", "pattern": [{"LOWER": "john"}, {"LOWER": "cavendish"}]},
+  {"label": "PERSON", "id": "john cavendish", "pattern": [{"LOWER": "cavendish"}]},
+  {"label": "PERSON", "id": "john cavendish", "pattern": [{"LOWER": "john"}]},
+
+  {"label": "PERSON", "id": "mary cavendish", "pattern": [{"LOWER": "mary"}, {"LOWER": "cavendish"}]},
+  {"label": "PERSON", "id": "mary cavendish", "pattern": [{"LOWER": "cavendish"}]},
+  {"label": "PERSON", "id": "mary cavendish", "pattern": [{"LOWER": "mary"}]},
+
+  {"label": "PERSON", "id": "lawrence cavendish", "pattern": [{"LOWER": "lawrence"}, {"LOWER": "cavendish"}]},
+  {"label": "PERSON", "id": "lawrence cavendish", "pattern": [{"LOWER": "cavendish"}]},
+  {"label": "PERSON", "id": "lawrence cavendish", "pattern": [{"LOWER": "lawrence"}]},
+
+  {"label": "PERSON", "id": "evelyn howard", "pattern": [{"LOWER": "evelyn"}, {"LOWER": "howard"}]},
+  {"label": "PERSON", "id": "evelyn howard", "pattern": [{"LOWER": "howard"}]},
+  {"label": "PERSON", "id": "evelyn howard", "pattern": [{"LOWER": "evelyn"}]},
+
+  {"label": "PERSON", "id": "cynthia murdoch", "pattern": [{"LOWER": "cynthia"}, {"LOWER": "murdoch"}]},
+  {"label": "PERSON", "id": "cynthia murdoch", "pattern": [{"LOWER": "murdoch"}]},
+  {"label": "PERSON", "id": "cynthia murdoch", "pattern": [{"LOWER": "cynthia"}]},
+
+  {"label": "PERSON", "id": "dr bauerstein", "pattern": [{"LOWER": "dr"}, {"LOWER": "bauerstein"}]},
+  {"label": "PERSON", "id": "dr bauerstein", "pattern": [{"LOWER": "bauerstein"}]},
+  {"label": "PERSON", "id": "dr bauerstein", "pattern": [{"LOWER": "dr"}]},
+
+  {"label": "PERSON", "id": "dorcas", "pattern": [{"LOWER": "dorcas"}]}
+]
